@@ -1,8 +1,11 @@
 # ETL_Project
 
-We imported an existing CSV file that contained data surrounding Boats for sale in Europe. Source: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download
+We imported an existing CSV file that contained data surrounding Boats for sale in Europe.   
 
-We then cleaned the data in a variety of ways prepare it for analysis. 
+Source: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download
+
+We then cleaned the data in a variety of ways prepare it for analysis.  
+
 -split out currencies so that currency and price were in separate columns  
 
 
