@@ -44,3 +44,7 @@ After cleaning the data we then exported the data to a SQlite database.
 -correlation of price based on number of views
 
 
+## References 
+
+https://stackoverflow.com/questions/65375242/pandas-dataframe-converting-between-currencies
+
