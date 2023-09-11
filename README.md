@@ -10,14 +10,14 @@
 # Data Cleaning  
 ## We imported the following CSV file from the kaggle website that contained Boat data. We then cleaned/inserted data in a variety of ways for better analysis.
   -Source: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales?resource=download.  
-  - split out currencies so that currency and price were in separate columns.  
-  - created a database for currency conversions based on a static date listed in Dataframe.  
-  - converted all prices to Euro's.  
-  - converted from Euro to USD based on a static date listed in Dataframe.  
-  - special characters were converted on multiple columns (location, manufacturer).  
-  - split Location column into City and Country for further analysis.  
-  - split Type column into Condition and Fuel for further analysis.  
-  - reorganized columns for better readability.  
+  - split out currencies so that currency and price were in separate columns.
+  - created a database for currency conversions based on a static date listed in Dataframe.
+  - converted all prices to Euro's.
+  - converted from Euro to USD based on a static date listed in Dataframe.
+  - special characters were converted on multiple columns (location, manufacturer).
+  - split Location column into City and Country for further analysis.
+  - split Type column into Condition and Fuel for further analysis.
+  - reorganized columns for better readability.
   - converted multiple columns datatypes.
 
 # DataBase Creation  
